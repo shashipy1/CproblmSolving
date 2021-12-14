@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+// calcualte values
 int main(){
     char operator;
     double first, second;
